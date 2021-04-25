@@ -4,6 +4,7 @@
     <div class="navit col-12 col-md-6">
       <router-link to="/">Home</router-link> |
       <router-link to="/price">Our prices</router-link> |
+      <router-link to="/blog">Blog</router-link> |
       <router-link to="/contact">Contact</router-link>
     </div>
     <div class="made col-0 col-md-3">
