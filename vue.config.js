@@ -1,3 +1,3 @@
 module.export = {
-  publicPath: '/vueonemore/'
+  publicPath: 'vueonemore'
 }
