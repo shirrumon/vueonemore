@@ -1,3 +1,5 @@
-module.export = {
-  publicPath: 'vueonemore'
+module.exports = {
+    publicPath: process.env.NODE_ENV === 'production'
+    ? '/vueonemore/'
+    : '/'
 }
